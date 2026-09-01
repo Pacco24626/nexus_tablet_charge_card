@@ -1,3 +1,5 @@
+<img src="icons/logo.png" alt="Nexus Tablet Charge Card" width="360">
+
 # Nexus Tablet Charge Card
 
 Card per l'integrazione [Nexus Tablet Charge](https://github.com/Pacco24626/nexus_tablet_charge).
