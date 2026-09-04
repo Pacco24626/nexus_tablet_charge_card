@@ -42,3 +42,7 @@ dall'integrazione compare da solo: la configurazione della dashboard non va tocc
 
 Integrazione `nexus_tablet_charge` 1.0.0 o superiore. Senza di essa la card non ha
 nulla da mostrare.
+
+## Licenza
+
+Apache 2.0 — Copyright 2026 Automatic Systems. Vedi [LICENSE](LICENSE).

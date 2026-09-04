@@ -9,7 +9,7 @@
  * configurazione della dashboard.
  */
 
-const CARD_VERSION = "1.0.1";
+const CARD_VERSION = "1.0.2";
 
 console.info(
   `%c NEXUS-TABLET-CHARGE-CARD %c ${CARD_VERSION} `,
